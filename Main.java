@@ -7,6 +7,7 @@ public class Main{
         System.out.println("Output from java program");
         System.out.println(new Date());
         System.out.println("Zarap Mango are the best");
+        System.out.println("www.Konkanconnect.com");  
 
     }
 }
